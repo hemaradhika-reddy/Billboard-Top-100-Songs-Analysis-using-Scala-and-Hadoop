@@ -1,0 +1,1 @@
+This project developes a scalable data processing pipeline in Scala to analyze large volumes of Billboard Top 100 songs data using Hadoop MapReduce.Employed data cleaning, transformation, and aggregation techniques to extract meaningful patterns and trends.
